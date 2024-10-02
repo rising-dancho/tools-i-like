@@ -4,7 +4,7 @@ svg icons:
 - https://icons.getbootstrap.com/icons/heart-fill/
 - https://heroicons.com/
 
-status code:
+status codes:
 - https://www.educative.io/answers/how-to-use-the-nodejs-httpserverresponsestatuscode-property
 
 css related:
