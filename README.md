@@ -41,6 +41,9 @@ svg icons:
 
 status codes:
 - https://www.educative.io/answers/how-to-use-the-nodejs-httpserverresponsestatuscode-property
+- https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+- https://www.restapitutorial.com/httpstatuscodes
+- https://www.webfx.com/web-development/glossary/http-status-codes/
 
 css related:
 - https://dev.to/arjuncodess/feeling-stuck-with-css-open-this-4g9f
