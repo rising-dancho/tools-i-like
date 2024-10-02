@@ -1,6 +1,6 @@
 i will just collect tools that i like to keep using and post it here:
 
-css tools:
+tools:
 - https://devsdash.com/tools/css-button-generator
 - https://markodenic.com/tools/buttons-generator/
 - https://freefrontend.com/css-buttons/
@@ -12,7 +12,7 @@ css tools:
 - https://codingheroes.io/resources/
 - https://favicon.io/favicon-generator/
 - https://www.wallpaperhub.app/wallpapers/11454#Sage
-- 
+- https://sketchfab.com/
 
 svg icons:
 - https://icons.getbootstrap.com/icons/heart-fill/
@@ -29,14 +29,18 @@ css related:
 - https://www.codingnepalweb.com/fullscreen-overlay-navigation-menu-bar-html-css/
 - https://codepen.io/inescodes/pen/PoxMyvX
 - https://ux.stackexchange.com/questions/124228/what-is-the-best-max-width-content-container-in-a-website
+- https://codepen.io/Juxtopposed/pen/BaqLEQY
 
 js related:
 - https://date-fns.org/
 
 inspiration websites:
+- https://www.carlhauser.com/
+- https://www.olivierifrah.com/
 - https://nitro.unjs.io/
 - https://www.heroku.com/home
 - https://franciscamoura.com/
+- https://toyfight.co/
 - https://vercel.lol/
 - https://www.heroku.com/podcasts
 - https://seekthem.com/
@@ -51,7 +55,6 @@ inspiration websites:
 - https://antfu.me/
 - https://nerdy.dev/
 - https://www.nexxel.dev/
-- https://grugbrain.dev/
 - https://www.skool.com/genesis/about
 - https://nodejs.org/en
 - https://ascnzen.com/pages/contact
@@ -76,6 +79,12 @@ inspiration websites:
 - https://wilian.webflow.io/
 - https://www.poulos.co/
 - https://www.kysondana.com/
+- https://www.2manydots.nl/
+- https://iuri.is/about
+- https://cara.app/blog
+- https://www.lyricslayers.com/rauf-e-faik/eto-li-schaste/english.html
+- https://hybridhacker.email/p/should-you-start-a-startup?ref=jonas.io
+- https://2023.stateofcss.com/en-US?ref=jonas.io
 
 courses:
 - https://www.awwwards.com/academy/course/creative-coding-making-visuals-with-javascript
@@ -85,3 +94,12 @@ courses:
 - https://www.awwwards.com/academy/course/web-design-with-figma-building-striking-compositions
 - https://www.awwwards.com/academy/course/learn-figma-from-a-to-z
 - https://www.awwwards.com/academy/course/using-motion-design-to-animate-with-purpose-and-create-delightful-experiences-online-course
+
+self improvement:
+- https://github.com/zakirullin/cognitive-load?ref=jonas.io
+- https://www.forbes.com/sites/briannawiest/2018/07/10/this-is-the-psychological-reason-why-some-people-are-so-hard-on-themselves/
+- https://grugbrain.dev/
+- https://www.understood.org/en/articles/if-my-kid-is-so-smart-why-is-he-so-slow
+- https://jimleff.blogspot.com/2012/08/the-infinite-potential-of-slow-learners.html
+- https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/#:~:text=Smarter%2C%20slower,which%20results%20in%20better%20decisions.
+- https://www.understood.org/en/articles/if-my-kid-is-so-smart-why-is-he-so-slow
