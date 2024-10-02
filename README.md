@@ -42,6 +42,7 @@ inspiration websites:
 - https://www.diadora.com/en/ph/game_l_high_suede_waxed/501.181201_60065.html
 - https://threejscc-portfolio.vercel.app/#about
 - https://astro-sanity-starter-demo.netlify.app/
+- https://ping.gg/
 
 courses:
 - https://www.awwwards.com/academy/course/creative-coding-making-visuals-with-javascript
