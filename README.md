@@ -5,7 +5,7 @@ svg icons:
 - https://heroicons.com/
 
 status code:
--https://www.educative.io/answers/how-to-use-the-nodejs-httpserverresponsestatuscode-property
+- https://www.educative.io/answers/how-to-use-the-nodejs-httpserverresponsestatuscode-property
 
 css related:
 - https://markodenic.com/tools/buttons-generator/
