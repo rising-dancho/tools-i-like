@@ -21,3 +21,7 @@ inspiration websites:
 - https://nitro.unjs.io/
 - https://antfu.me/
 - https://nerdy.dev/
+
+courses:
+- https://www.awwwards.com/academy/course/creative-coding-making-visuals-with-javascript
+- https://www.awwwards.com/academy/course/building-vector-graphics-uis-and-animations-with-svg-from-scratch
