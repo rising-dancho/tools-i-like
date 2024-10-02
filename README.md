@@ -8,15 +8,21 @@ css tools:
 - https://www.tldraw.com/r/OZAsms-WWl_zX0jwvi9vI?d=v-45.-19.1695.805.page
 - https://gui-challenges.web.app/buttons/dist/
 - https://www.learnui.design/tools/gradient-generator.html
+- https://coverr.co/
+- https://codingheroes.io/resources/
+- https://favicon.io/favicon-generator/
 
 svg icons:
 - https://icons.getbootstrap.com/icons/heart-fill/
 - https://heroicons.com/
+- https://www.svgrepo.com/svg/353724/express
+- 
 
 status codes:
 - https://www.educative.io/answers/how-to-use-the-nodejs-httpserverresponsestatuscode-property
 
 css related:
+- https://www.youtube.com/watch?v=Ml-B-W91gtw&lc=UgxNljgqkl2YkrP2WS14AaABAg
 - https://www.lapa.ninja/
 - https://www.codingnepalweb.com/fullscreen-overlay-navigation-menu-bar-html-css/
 - https://codepen.io/inescodes/pen/PoxMyvX
@@ -27,9 +33,11 @@ js related:
 
 inspiration websites:
 - https://nitro.unjs.io/
+- https://www.heroku.com/home
 - https://vercel.lol/
 - https://www.heroku.com/podcasts
 - https://seekthem.com/
+- https://skinsmonkey.com/
 - https://www.coltsteele.com/
 - https://robbowen.digital/
 - https://designspo.co/
@@ -41,6 +49,8 @@ inspiration websites:
 - https://nerdy.dev/
 - https://www.nexxel.dev/
 - https://grugbrain.dev/
+- https://www.skool.com/genesis/about
+- https://nodejs.org/en
 - https://ascnzen.com/pages/contact
 - https://xstyled.dev/
 - https://ynjn.jp/gravure/talents/1091
@@ -60,4 +70,3 @@ courses:
 - https://www.awwwards.com/academy/course/web-design-with-figma-building-striking-compositions
 - https://www.awwwards.com/academy/course/learn-figma-from-a-to-z
 - https://www.awwwards.com/academy/course/using-motion-design-to-animate-with-purpose-and-create-delightful-experiences-online-course
-- 
