@@ -7,6 +7,7 @@ css tools:
 - https://codemyui.com/tag/button/
 - https://www.tldraw.com/r/OZAsms-WWl_zX0jwvi9vI?d=v-45.-19.1695.805.page
 - https://gui-challenges.web.app/buttons/dist/
+- https://www.learnui.design/tools/gradient-generator.html
 
 svg icons:
 - https://icons.getbootstrap.com/icons/heart-fill/
@@ -16,6 +17,7 @@ status codes:
 - https://www.educative.io/answers/how-to-use-the-nodejs-httpserverresponsestatuscode-property
 
 css related:
+- https://www.lapa.ninja/
 - https://www.codingnepalweb.com/fullscreen-overlay-navigation-menu-bar-html-css/
 - https://codepen.io/inescodes/pen/PoxMyvX
 - https://ux.stackexchange.com/questions/124228/what-is-the-best-max-width-content-container-in-a-website
@@ -25,10 +27,16 @@ js related:
 
 inspiration websites:
 - https://nitro.unjs.io/
+- https://vercel.lol/
 - https://www.heroku.com/podcasts
+- https://seekthem.com/
 - https://www.coltsteele.com/
 - https://robbowen.digital/
+- https://designspo.co/
+- https://sst.dev/
 - https://v4.brittanychiang.com/
+- https://www.cycle.app/?ref=lapaninja
+- https://www.wimpdecaf.com/?ref=lapaninja
 - https://antfu.me/
 - https://nerdy.dev/
 - https://www.nexxel.dev/
