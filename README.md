@@ -6,6 +6,7 @@ css tools:
 - https://freefrontend.com/css-buttons/
 - https://codemyui.com/tag/button/
 - https://www.tldraw.com/r/OZAsms-WWl_zX0jwvi9vI?d=v-45.-19.1695.805.page
+- https://gui-challenges.web.app/buttons/dist/
 
 svg icons:
 - https://icons.getbootstrap.com/icons/heart-fill/
@@ -16,7 +17,6 @@ status codes:
 
 css related:
 - https://www.codingnepalweb.com/fullscreen-overlay-navigation-menu-bar-html-css/
-- https://gui-challenges.web.app/buttons/dist/
 - https://codepen.io/inescodes/pen/PoxMyvX
 - https://ux.stackexchange.com/questions/124228/what-is-the-best-max-width-content-container-in-a-website
 
