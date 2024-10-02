@@ -37,7 +37,8 @@ svg icons:
 - https://www.iconfinder.com/
 - https://www.vectorlogo.zone/logos/amazon/
 - https://www.freepik.com/
-- https://phosphoricons.com//
+- https://phosphoricons.com/
+
 status codes:
 - https://www.educative.io/answers/how-to-use-the-nodejs-httpserverresponsestatuscode-property
 
