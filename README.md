@@ -11,12 +11,14 @@ css tools:
 - https://coverr.co/
 - https://codingheroes.io/resources/
 - https://favicon.io/favicon-generator/
+- https://www.wallpaperhub.app/wallpapers/11454#Sage
+- 
 
 svg icons:
 - https://icons.getbootstrap.com/icons/heart-fill/
 - https://heroicons.com/
 - https://www.svgrepo.com/svg/353724/express
-- 
+- https://openmoji.org/
 
 status codes:
 - https://www.educative.io/answers/how-to-use-the-nodejs-httpserverresponsestatuscode-property
@@ -34,6 +36,7 @@ js related:
 inspiration websites:
 - https://nitro.unjs.io/
 - https://www.heroku.com/home
+- https://franciscamoura.com/
 - https://vercel.lol/
 - https://www.heroku.com/podcasts
 - https://seekthem.com/
@@ -61,6 +64,18 @@ inspiration websites:
 - https://threejscc-portfolio.vercel.app/#about
 - https://astro-sanity-starter-demo.netlify.app/
 - https://ping.gg/
+- https://aaronandclaire.com/yakisoba-japanese-stir-fried-noodles/
+- https://survey.stackoverflow.co/2024/?utm_medium=referral&utm_source=stackexchange-community&utm_campaign=dev-survey-2024&utm_content=announcement-banner
+- https://stripe.com/
+- https://nvchad.com/
+- https://www.thunderbird.net/en-US/
+- https://zed.dev/download
+- https://brackets.io/
+- https://median-xl.com/
+- https://titanquest2.thqnordic.com/
+- https://wilian.webflow.io/
+- https://www.poulos.co/
+- https://www.kysondana.com/
 
 courses:
 - https://www.awwwards.com/academy/course/creative-coding-making-visuals-with-javascript
