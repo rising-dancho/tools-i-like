@@ -1,7 +1,15 @@
 i will just collect tools that i like to keep using and post it here:
 
 tools:
+- https://maketintsandshades.com/#047aed
+- https://squoosh.app/
 - https://devsdash.com/tools/css-button-generator
+- https://mycolor.space/?hex=%23845EC2&sub=1
+- https://mdigi.tools/color-shades/#047aed
+- https://tailwindcss.com/docs/customizing-colors
+- https://www.drawkit.com/illustration-types/2d?page=2
+- https://coolors.co/contrast-checker/575759-ffffff
+- https://fontawesome.com/search
 - https://markodenic.com/tools/buttons-generator/
 - https://freefrontend.com/css-buttons/
 - https://codemyui.com/tag/button/
@@ -13,29 +21,46 @@ tools:
 - https://favicon.io/favicon-generator/
 - https://www.wallpaperhub.app/wallpapers/11454#Sage
 - https://sketchfab.com/
+- https://www.fontshare.com/fonts/general-sans
+- https://www.realtimecolors.com/?colors=e7edee-060909-2a3a3c-192324-6f959b&fonts=Inter-Inter
+- https://snappify.com/editor
+- https://ui.shadcn.com/themes
+- https://www.drawkit.com/illustrations/online-shopping-illustrations
+- https://resumetrick.com/
+- https://uigradients.com/#Hydrogen
 
 svg icons:
 - https://icons.getbootstrap.com/icons/heart-fill/
 - https://heroicons.com/
 - https://www.svgrepo.com/svg/353724/express
 - https://openmoji.org/
-
+- https://www.iconfinder.com/
+- https://www.vectorlogo.zone/logos/amazon/
+- https://www.freepik.com/
+- https://phosphoricons.com//
 status codes:
 - https://www.educative.io/answers/how-to-use-the-nodejs-httpserverresponsestatuscode-property
 
 css related:
+- https://dev.to/arjuncodess/feeling-stuck-with-css-open-this-4g9f
 - https://www.youtube.com/watch?v=Ml-B-W91gtw&lc=UgxNljgqkl2YkrP2WS14AaABAg
 - https://www.lapa.ninja/
 - https://www.codingnepalweb.com/fullscreen-overlay-navigation-menu-bar-html-css/
 - https://codepen.io/inescodes/pen/PoxMyvX
 - https://ux.stackexchange.com/questions/124228/what-is-the-best-max-width-content-container-in-a-website
 - https://codepen.io/Juxtopposed/pen/BaqLEQY
+- https://500px.com/
+- https://dribbble.com/shots
+- https://css-tricks.com/bold-on-hover-without-the-la
 
 js related:
+- https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769
 - https://date-fns.org/
+- https://randomuser.me/
 
 inspiration websites:
 - https://www.carlhauser.com/
+- https://ayakotaniguchi.jp/
 - https://www.olivierifrah.com/
 - https://nitro.unjs.io/
 - https://www.heroku.com/home
@@ -85,6 +110,9 @@ inspiration websites:
 - https://www.lyricslayers.com/rauf-e-faik/eto-li-schaste/english.html
 - https://hybridhacker.email/p/should-you-start-a-startup?ref=jonas.io
 - https://2023.stateofcss.com/en-US?ref=jonas.io
+- https://bavet.eu/menu/
+- https://qude.audio/
+- 
 
 courses:
 - https://www.awwwards.com/academy/course/creative-coding-making-visuals-with-javascript
@@ -103,3 +131,5 @@ self improvement:
 - https://jimleff.blogspot.com/2012/08/the-infinite-potential-of-slow-learners.html
 - https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/#:~:text=Smarter%2C%20slower,which%20results%20in%20better%20decisions.
 - https://www.understood.org/en/articles/if-my-kid-is-so-smart-why-is-he-so-slow
+- https://ryxcommar.com/2024/08/17/why-does-getting-a-job-in-tech-suck-right-now-is-it-ai/?ref=jonas.io
+- 
