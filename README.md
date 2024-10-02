@@ -132,4 +132,3 @@ self improvement:
 - https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/#:~:text=Smarter%2C%20slower,which%20results%20in%20better%20decisions.
 - https://www.understood.org/en/articles/if-my-kid-is-so-smart-why-is-he-so-slow
 - https://ryxcommar.com/2024/08/17/why-does-getting-a-job-in-tech-suck-right-now-is-it-ai/?ref=jonas.io
-- 
