@@ -40,7 +40,6 @@ svg icons:
 - https://phosphoricons.com/
 
 status codes:
-- https://www.educative.io/answers/how-to-use-the-nodejs-httpserverresponsestatuscode-property
 - https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 - https://www.restapitutorial.com/httpstatuscodes
 - https://www.webfx.com/web-development/glossary/http-status-codes/
