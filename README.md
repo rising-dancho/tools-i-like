@@ -115,7 +115,7 @@ inspiration websites:
 - https://2023.stateofcss.com/en-US?ref=jonas.io
 - https://bavet.eu/menu/
 - https://qude.audio/
-- 
+- https://evernote.com/features/notes-app
 
 courses:
 - https://www.awwwards.com/academy/course/creative-coding-making-visuals-with-javascript
