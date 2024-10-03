@@ -1,4 +1,4 @@
-i will just collect tools that i like to keep using and post it here:
+collection of tools and references that i like to keep using:
 
 tools:
 - https://maketintsandshades.com/#047aed
