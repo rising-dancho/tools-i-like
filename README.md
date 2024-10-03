@@ -131,7 +131,6 @@ self improvement:
 - https://github.com/zakirullin/cognitive-load?ref=jonas.io
 - https://www.forbes.com/sites/briannawiest/2018/07/10/this-is-the-psychological-reason-why-some-people-are-so-hard-on-themselves/
 - https://grugbrain.dev/
-- https://www.understood.org/en/articles/if-my-kid-is-so-smart-why-is-he-so-slow
 - https://jimleff.blogspot.com/2012/08/the-infinite-potential-of-slow-learners.html
 - https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/#:~:text=Smarter%2C%20slower,which%20results%20in%20better%20decisions.
 - https://www.understood.org/en/articles/if-my-kid-is-so-smart-why-is-he-so-slow
