@@ -28,6 +28,7 @@ tools:
 - https://www.drawkit.com/illustrations/online-shopping-illustrations
 - https://resumetrick.com/
 - https://uigradients.com/#Hydrogen
+- https://getbootstrap.com/docs/4.0/components/alerts/
 
 svg icons:
 - https://icons.getbootstrap.com/icons/heart-fill/
