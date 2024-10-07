@@ -130,7 +130,6 @@ courses:
 self improvement:
 - https://github.com/zakirullin/cognitive-load?ref=jonas.io
 - https://grugbrain.dev/
-- https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/
 - https://www.forbes.com/sites/briannawiest/2018/07/10/this-is-the-psychological-reason-why-some-people-are-so-hard-on-themselves/
 - https://jimleff.blogspot.com/2012/08/the-infinite-potential-of-slow-learners.html
 - https://jimleff.blogspot.com/2010/05/solving-solving-problem-solving.html
