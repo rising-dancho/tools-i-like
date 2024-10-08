@@ -117,6 +117,7 @@ inspiration websites:
 - https://bavet.eu/menu/
 - https://qude.audio/
 - https://evernote.com/features/notes-app
+- https://vercel.com/home
 
 courses:
 - https://www.awwwards.com/academy/course/creative-coding-making-visuals-with-javascript
