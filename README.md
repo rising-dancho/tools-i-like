@@ -4,6 +4,7 @@ tools:
 - https://maketintsandshades.com/#047aed
 - https://squoosh.app/
 - https://devsdash.com/tools/css-button-generator
+- https://cssgradient.io/blog/css-gradient-text/
 - https://mycolor.space/?hex=%23845EC2&sub=1
 - https://mdigi.tools/color-shades/#047aed
 - https://tailwindcss.com/docs/customizing-colors
