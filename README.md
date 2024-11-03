@@ -1,6 +1,7 @@
 collection of tools and references that i like to keep using:
 
 tools:
+- https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 - https://maketintsandshades.com/#047aed
 - https://squoosh.app/
 - https://devsdash.com/tools/css-button-generator
