@@ -66,6 +66,7 @@ js related:
 - https://randomuser.me/
 
 inspiration websites:
+- https://doobymart.com/
 - https://www.carlhauser.com/
 - https://ayakotaniguchi.jp/
 - https://www.olivierifrah.com/
