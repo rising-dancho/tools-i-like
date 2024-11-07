@@ -34,6 +34,7 @@ tools:
 
 svg icons:
 - https://icons.getbootstrap.com/icons/heart-fill/
+- https://boxicons.com/?query=faceb
 - https://heroicons.com/
 - https://www.svgrepo.com/svg/353724/express
 - https://openmoji.org/
