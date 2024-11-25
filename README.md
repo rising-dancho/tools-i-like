@@ -124,6 +124,13 @@ inspiration websites:
 - https://vercel.com/home
 
 courses:
+Udemy:
+- https://www.udemy.com/course/become-a-web-developer-bootcamp/?couponCode=BFCPSALE24
+- https://www.udemy.com/course/react-for-the-rest-of-us/?couponCode=BFCPSALE24
+- https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/?couponCode=BFCPSALE24
+- https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/?couponCode=BFCPSALE24
+- https://www.udemy.com/course/lets-learn-laravel-a-guided-path-for-beginners/?couponCode=BFCPSALE24
+Awwwards:
 - https://www.awwwards.com/academy/course/creative-coding-making-visuals-with-javascript
 - https://www.awwwards.com/academy/course/building-vector-graphics-uis-and-animations-with-svg-from-scratch
 - https://www.awwwards.com/academy/course/audio-reactive-visuals-with-code
