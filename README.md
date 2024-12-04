@@ -69,6 +69,7 @@
 ## inspiration websites:
 - https://expo.dev/
 - https://doobymart.com/
+- https://tamagui.dev/
 - https://prettyprinted.com/tutorials/automatically_load_environment_variables_in_flask/
 - https://www.carlhauser.com/
 - https://ayakotaniguchi.jp/
