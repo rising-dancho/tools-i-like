@@ -1,6 +1,7 @@
-collection of tools and references that i like to keep using:
+# collection of tools and references that i like to keep using:
 
-tools:
+## tools:
+- https://annystudio.com/software/colorpicker/
 - https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 - https://maketintsandshades.com/#047aed
 - https://squoosh.app/
@@ -43,12 +44,12 @@ svg icons:
 - https://www.freepik.com/
 - https://phosphoricons.com/
 
-status codes:
+## status codes:
 - https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 - https://www.restapitutorial.com/httpstatuscodes
 - https://www.webfx.com/web-development/glossary/http-status-codes/
 
-css related:
+## css related:
 - https://dev.to/arjuncodess/feeling-stuck-with-css-open-this-4g9f
 - https://www.youtube.com/watch?v=Ml-B-W91gtw&lc=UgxNljgqkl2YkrP2WS14AaABAg
 - https://www.lapa.ninja/
@@ -60,12 +61,12 @@ css related:
 - https://dribbble.com/shots
 - https://css-tricks.com/bold-on-hover-without-the-la
 
-js related:
+## js related:
 - https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769
 - https://date-fns.org/
 - https://randomuser.me/
 
-inspiration websites:
+## inspiration websites:
 - https://expo.dev/
 - https://doobymart.com/
 - https://prettyprinted.com/tutorials/automatically_load_environment_variables_in_flask/
@@ -125,14 +126,14 @@ inspiration websites:
 - https://evernote.com/features/notes-app
 - https://vercel.com/home
 
-courses (Udemy):
+## courses (Udemy):
 - https://www.udemy.com/course/become-a-web-developer-bootcamp/?couponCode=BFCPSALE24
 - https://www.udemy.com/course/react-for-the-rest-of-us/?couponCode=BFCPSALE24
 - https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/?couponCode=BFCPSALE24
 - https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/?couponCode=BFCPSALE24
 - https://www.udemy.com/course/lets-learn-laravel-a-guided-path-for-beginners/?couponCode=BFCPSALE24
 
-courses (Awwwards):
+## courses (Awwwards):
 - https://www.awwwards.com/academy/course/creative-coding-making-visuals-with-javascript
 - https://www.awwwards.com/academy/course/building-vector-graphics-uis-and-animations-with-svg-from-scratch
 - https://www.awwwards.com/academy/course/audio-reactive-visuals-with-code
@@ -141,7 +142,7 @@ courses (Awwwards):
 - https://www.awwwards.com/academy/course/learn-figma-from-a-to-z
 - https://www.awwwards.com/academy/course/using-motion-design-to-animate-with-purpose-and-create-delightful-experiences-online-course
 
-self improvement:
+## self improvement:
 - https://github.com/zakirullin/cognitive-load?ref=jonas.io
 - https://grugbrain.dev/
 - https://www.forbes.com/sites/briannawiest/2018/07/10/this-is-the-psychological-reason-why-some-people-are-so-hard-on-themselves/
