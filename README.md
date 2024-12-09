@@ -68,6 +68,7 @@
 
 ## inspiration websites:
 - https://expo.dev/
+- https://sandeepmakwana.vercel.app/
 - https://doobymart.com/
 - https://tamagui.dev/
 - https://prettyprinted.com/tutorials/automatically_load_environment_variables_in_flask/
