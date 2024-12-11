@@ -68,6 +68,7 @@
 
 ## inspiration websites:
 - https://expo.dev/
+- https://expo.dev/signup
 - https://sandeepmakwana.vercel.app/
 - https://doobymart.com/
 - https://tamagui.dev/
