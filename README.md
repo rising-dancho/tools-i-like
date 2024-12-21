@@ -150,7 +150,5 @@
 
 ## self improvement:
 - https://www.youtube.com/watch?v=21j_OCNLuYg
-- https://github.com/zakirullin/cognitive-load?ref=jonas.io
 - https://grugbrain.dev/
-- https://www.forbes.com/sites/briannawiest/2018/07/10/this-is-the-psychological-reason-why-some-people-are-so-hard-on-themselves/
-- https://jimleff.blogspot.com/2012/08/the-infinite-potential-of-slow-learners.html
+
