@@ -149,6 +149,7 @@
 - https://www.awwwards.com/academy/course/using-motion-design-to-animate-with-purpose-and-create-delightful-experiences-online-course
 
 ## self improvement:
+- https://www.youtube.com/watch?v=21j_OCNLuYg
 - https://github.com/zakirullin/cognitive-load?ref=jonas.io
 - https://grugbrain.dev/
 - https://www.forbes.com/sites/briannawiest/2018/07/10/this-is-the-psychological-reason-why-some-people-are-so-hard-on-themselves/
