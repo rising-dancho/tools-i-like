@@ -67,6 +67,7 @@
 - https://randomuser.me/
 
 ## inspiration websites:
+- https://www.toyota.com/tacoma/
 - https://expo.dev/
 - https://www.solidtime.io/
 - https://app.uniswap.org/
