@@ -34,6 +34,7 @@
 - https://getbootstrap.com/docs/4.0/components/alerts/
 
 ## svg icons:
+- https://www.svgviewer.dev/
 - https://icons.getbootstrap.com/icons/heart-fill/
 - https://boxicons.com/?query=faceb
 - https://heroicons.com/
