@@ -152,7 +152,5 @@
 - https://www.awwwards.com/academy/course/using-motion-design-to-animate-with-purpose-and-create-delightful-experiences-online-course
 
 ## self improvement:
-- https://www.youtube.com/watch?v=21j_OCNLuYg
-- https://www.youtube.com/watch?v=wrQ0k_2qXQ8
 - https://grugbrain.dev/
 
