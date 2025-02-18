@@ -70,6 +70,8 @@
 
 ## inspiration websites:
 - https://www.toyota.com/tacoma/
+- https://ghost.org/
+- https://www.docker.com/
 - https://expo.dev/
 - https://www.solidtime.io/
 - https://app.uniswap.org/
