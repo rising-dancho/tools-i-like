@@ -1,6 +1,7 @@
 # collection of tools and references that i like to keep using:
 
 ## tools:
+- https://fly.io/
 - https://annystudio.com/software/colorpicker/
 - https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 - https://maketintsandshades.com/#047aed
@@ -69,6 +70,7 @@
 - https://randomuser.me/
 
 ## inspiration websites:
+- https://fly.io/
 - https://www.toyota.com/tacoma/
 - https://hub.docker.com/
 - https://gravatar.com/
