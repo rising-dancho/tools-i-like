@@ -70,6 +70,7 @@
 - https://randomuser.me/
 
 ## inspiration websites:
+- https://www.pedrotech.co/
 - https://fly.io/
 - https://www.toyota.com/tacoma/
 - https://hub.docker.com/
