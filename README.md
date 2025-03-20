@@ -71,6 +71,7 @@
 
 ## inspiration websites:
 - https://www.carlhauser.com/
+- https://www.heroku.com/home
 - https://www.pedrotech.co/
 - https://fly.io/
 - https://www.toyota.com/tacoma/
@@ -91,12 +92,10 @@
 - https://ayakotaniguchi.jp/
 - https://www.olivierifrah.com/
 - https://nitro.unjs.io/
-- https://www.heroku.com/home
 - https://franciscamoura.com/
 - https://toyfight.co/
 - https://vercel.lol/
 - https://www.heroku.com/podcasts
-- https://seekthem.com/
 - https://skinsmonkey.com/
 - https://www.coltsteele.com/
 - https://robbowen.digital/
