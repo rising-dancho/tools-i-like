@@ -70,6 +70,7 @@
 - https://randomuser.me/
 
 ## inspiration websites:
+- https://www.carlhauser.com/
 - https://www.pedrotech.co/
 - https://fly.io/
 - https://www.toyota.com/tacoma/
@@ -87,7 +88,6 @@
 - https://doobymart.com/
 - https://tamagui.dev/
 - https://prettyprinted.com/tutorials/automatically_load_environment_variables_in_flask/
-- https://www.carlhauser.com/
 - https://ayakotaniguchi.jp/
 - https://www.olivierifrah.com/
 - https://nitro.unjs.io/
