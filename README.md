@@ -71,6 +71,7 @@
 
 ## inspiration websites:
 - https://www.carlhauser.com/
+- https://newsnow.busiyi.world/
 - https://www.heroku.com/home
 - https://www.pedrotech.co/
 - https://fly.io/
