@@ -1,5 +1,12 @@
 # collection of tools and references that i like to keep using:
 
+# ui desing examples:
+- https://ui.shadcn.com/themes
+- https://matsu-theme.vercel.app/test
+- https://ui.mantine.dev/#main
+- https://headlessui.com/v1/react/listbox
+- https://preline.co/examples.html
+
 ## tools:
 - https://fly.io/
 - https://annystudio.com/software/colorpicker/
