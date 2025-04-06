@@ -8,6 +8,7 @@
 - https://headlessui.com/v1/react/listbox
 - https://preline.co/examples.html
 - https://sonner.emilkowal.ski/
+- https://lynxjs.org/
 
 ## tools:
 - https://fly.io/
