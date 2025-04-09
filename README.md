@@ -81,6 +81,7 @@
 - https://randomuser.me/
 
 ## inspiration websites:
+- https://www.framer.com/?dub_id=Q2v1sano13CHt3jb
 - https://www.carlhauser.com/
 - https://newsnow.busiyi.world/
 - https://www.heroku.com/home
