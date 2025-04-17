@@ -46,6 +46,7 @@
 - https://getbootstrap.com/docs/4.0/components/alerts/
 
 ## svg icons:
+- https://worldvectorlogo.com/downloaded/android-logomark
 - https://oblador.github.io/react-native-vector-icons/#Ionicons
 - https://www.svgviewer.dev/
 - https://icons.getbootstrap.com/icons/heart-fill/
