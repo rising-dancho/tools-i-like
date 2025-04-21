@@ -11,6 +11,10 @@
 - https://sonner.emilkowal.ski/
 - https://lynxjs.org/
 
+# ideas to copy
+- https://ritualz.app/
+- https://dollatracker.app/
+
 ## tools:
 - https://fly.io/
 - https://annystudio.com/software/colorpicker/
