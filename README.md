@@ -16,7 +16,7 @@
 - https://dollatracker.app/
 
 ## tools:
-- https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.type=image&foreground.space.trim=1&foreground.space.pad=0.1&foreColor=rgba(96%2C%20125%2C%20139%2C%200)&backColor=rgb(0%2C%200%2C%200)&crop=0&backgroundShape=square&effects=shadow&name=ic_launcher
+- https://icon.kitchen/i/H4sIAAAAAAAAA02PQQvDIAyF%2F0t27XUXr2PHwWC9jR2iRivV2qntGKX%2FfRoYNIfw8pH3SDZY0S%2BUQWygMY39QIFAGPSZOjC2%2F851BBfQEjTwUOjdZCtTNBVKDG%2BYx4PpagypUjOBPK1YmlP%2Bo1T0sbmkvbAScDJczB4D8lZ%2BL5iar7SD9CH8jlrzARuUOIM4d5CcHQorGUuJgaUn09i%2BdxCiXnz78Qk46RSdrsEu5to%2FJOG1%2FwDMItXRBgEAAA%3D%3D
 - https://ethereal.email/create
 - https://fly.io/
 - https://annystudio.com/software/colorpicker/
