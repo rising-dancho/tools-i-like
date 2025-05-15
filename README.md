@@ -92,6 +92,7 @@
 
 ## inspiration websites:
 - https://code.visualstudio.com/
+- https://www.shopify.com/ph
 - https://www.framer.com/?dub_id=Q2v1sano13CHt3jb
 - https://www.carlhauser.com/
 - https://newsnow.busiyi.world/
