@@ -31,7 +31,6 @@
 - https://www.anduinos.com/
 - https://ethereal.email/create
 - https://fly.io/
-- https://annystudio.com/software/colorpicker/
 - https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 - https://maketintsandshades.com/#047aed
 - https://squoosh.app/
