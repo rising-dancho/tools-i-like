@@ -26,6 +26,7 @@
 - https://www.ventoy.net/en/index.html
 - https://www.anduinos.com/
 - https://annystudio.com/software/colorpicker/
+- https://www.wallpaperflare.com/
 
 ## tools:
 - https://icon.kitchen/i/H4sIAAAAAAAAA02PQQvDIAyF%2F0t27XUXr2PHwWC9jR2iRivV2qntGKX%2FfRoYNIfw8pH3SDZY0S%2BUQWygMY39QIFAGPSZOjC2%2F851BBfQEjTwUOjdZCtTNBVKDG%2BYx4PpagypUjOBPK1YmlP%2Bo1T0sbmkvbAScDJczB4D8lZ%2BL5iar7SD9CH8jlrzARuUOIM4d5CcHQorGUuJgaUn09i%2BdxCiXnz78Qk46RSdrsEu5to%2FJOG1%2FwDMItXRBgEAAA%3D%3D
