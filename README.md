@@ -1,6 +1,6 @@
 # collection of tools and references that i like to keep using:
 
-# ui design examples:
+## ui design examples:
 - https://land-book.com/
 - https://mobbin.com/browse/ios/apps
 - https://ui.shadcn.com/themes
@@ -11,10 +11,15 @@
 - https://sonner.emilkowal.ski/
 - https://lynxjs.org/
 
-# ideas to copy
+## ideas to copy
 - https://ritualz.app/
 - https://dollatracker.app/
 - https://swag.htmx.org/collections/grug
+
+## windows debloat:
+- https://github.com/ravendevteam/talon
+- https://github.com/christitustech/winutil
+- https://github.com/Raphire/Win11Debloat
 
 ## tools:
 - https://icon.kitchen/i/H4sIAAAAAAAAA02PQQvDIAyF%2F0t27XUXr2PHwWC9jR2iRivV2qntGKX%2FfRoYNIfw8pH3SDZY0S%2BUQWygMY39QIFAGPSZOjC2%2F851BBfQEjTwUOjdZCtTNBVKDG%2BYx4PpagypUjOBPK1YmlP%2Bo1T0sbmkvbAScDJczB4D8lZ%2BL5iar7SD9CH8jlrzARuUOIM4d5CcHQorGUuJgaUn09i%2BdxCiXnz78Qk46RSdrsEu5to%2FJOG1%2FwDMItXRBgEAAA%3D%3D
