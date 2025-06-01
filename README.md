@@ -10,6 +10,7 @@
 - https://preline.co/examples.html
 - https://sonner.emilkowal.ski/
 - https://lynxjs.org/
+- https://daisyui.com/
 
 ## ideas to copy
 - https://ritualz.app/
