@@ -110,6 +110,7 @@
 - https://randomuser.me/
 
 ## inspiration websites:
+- https://kkmihai.is-cool.dev/
 - https://jzitnik.dev/
 - https://code.visualstudio.com/
 - https://www.shopify.com/ph
