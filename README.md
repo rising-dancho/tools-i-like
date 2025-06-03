@@ -110,6 +110,7 @@
 - https://randomuser.me/
 
 ## inspiration websites:
+- https://www.thegr8binil.me/
 - https://sugith.in/
 - https://sugith.in/
 - https://kkmihai.is-cool.dev/
