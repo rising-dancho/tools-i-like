@@ -43,6 +43,7 @@
 - https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 - https://maketintsandshades.com/#047aed
 - https://squoosh.app/
+- https://www.shapedivider.app/
 - https://devsdash.com/tools/css-button-generator
 - https://cssgradient.io/blog/css-gradient-text/
 - https://mycolor.space/?hex=%23845EC2&sub=1
