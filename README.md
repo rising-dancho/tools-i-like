@@ -16,6 +16,7 @@
 - https://ritualz.app/
 - https://dollatracker.app/
 - https://swag.htmx.org/collections/grug
+- https://tomgregory.com/kickstart
 
 ## windows debloat:
 - https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file#download--how-to-use-it
