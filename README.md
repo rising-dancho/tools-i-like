@@ -13,6 +13,7 @@
 - https://daisyui.com/
 
 ## ideas to copy
+- https://ganmatthew.github.io/
 - https://ritualz.app/
 - https://dollatracker.app/
 - https://swag.htmx.org/collections/grug
