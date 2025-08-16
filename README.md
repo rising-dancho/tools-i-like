@@ -41,6 +41,7 @@
 - https://www.wallpaperflare.com/
 
 ## tools:
+- https://mixkit.co/
 - https://icon.kitchen/
 - https://ethereal.email/create
 - https://fly.io/
