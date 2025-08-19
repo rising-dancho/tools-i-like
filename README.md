@@ -12,7 +12,10 @@
 - https://lynxjs.org/
 - https://daisyui.com/
 
-## ideas to copy
+## ideas to cop
+- https://logistics-phi.vercel.app/
+- https://goodvillage.in/
+- https://www.anaspace.dev/
 - https://ganmatthew.github.io/
 - https://ritualz.app/
 - https://dollatracker.app/
