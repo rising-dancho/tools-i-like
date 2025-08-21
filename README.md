@@ -14,6 +14,7 @@
 
 ## ideas to cop
 - https://logistics-phi.vercel.app/
+- https://mixkit.co/
 - https://goodvillage.in/
 - https://www.anaspace.dev/
 - https://ganmatthew.github.io/
