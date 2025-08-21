@@ -13,6 +13,7 @@
 - https://daisyui.com/
 
 ## ideas to cop
+- https://aws.amazon.com/rds/free/
 - https://logistics-phi.vercel.app/
 - https://mixkit.co/
 - https://goodvillage.in/
