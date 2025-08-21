@@ -81,9 +81,6 @@
 - https://uigradients.com/#Hydrogen
 - https://getbootstrap.com/docs/4.0/components/alerts/
 
-# java swing:
-- https://www.formdev.com/jformdesigner/
-
 ## svg icons:
 - https://iconduck.com/icons/94789/pytorch
 - https://uxwing.com/android-robot-bot-icon/
