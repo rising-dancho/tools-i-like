@@ -12,7 +12,7 @@
 - https://lynxjs.org/
 - https://daisyui.com/
 
-## ideas to cop
+## ideas to copy
 - https://aws.amazon.com/rds/free/
 - https://logistics-phi.vercel.app/
 - https://mixkit.co/
