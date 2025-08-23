@@ -46,6 +46,7 @@
 - https://www.wallpaperflare.com/
 
 ## tools:
+- https://www.color-meanings.com/shades-of-white-color-names-html-hex-rgb-codes/
 - https://www.canva.com/colors/color-wheel/
 - https://mixkit.co/
 - https://icon.kitchen/
