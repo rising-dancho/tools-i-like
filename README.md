@@ -46,6 +46,7 @@
 - https://www.wallpaperflare.com/
 
 ## tools:
+- https://www.canva.com/colors/color-wheel/
 - https://mixkit.co/
 - https://icon.kitchen/
 - https://ethereal.email/create
