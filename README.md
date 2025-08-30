@@ -123,6 +123,7 @@
 - https://randomuser.me/
 
 ## inspiration websites:
+- https://canonical.com/
 - https://www.thegr8binil.me/
 - https://www.diffchecker.com/desktop/
 - https://sugith.in/
