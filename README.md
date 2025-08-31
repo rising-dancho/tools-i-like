@@ -13,6 +13,7 @@
 - https://daisyui.com/
 
 ## ideas to copy
+- https://markodenic.com/css-pulse-animation/
 - https://aws.amazon.com/rds/free/
 - https://logistics-phi.vercel.app/
 - https://mixkit.co/
