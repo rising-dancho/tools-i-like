@@ -124,6 +124,8 @@
 - https://randomuser.me/
 
 ## inspiration websites:
+- https://www.helenazhang.com/
+- https://tobiasfried.com/
 - https://canonical.com/
 - https://www.thegr8binil.me/
 - https://www.diffchecker.com/desktop/
