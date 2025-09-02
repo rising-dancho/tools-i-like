@@ -86,6 +86,7 @@
 - https://getbootstrap.com/docs/4.0/components/alerts/
 
 ## svg icons:
+- https://lucide.dev/icons/text-wrap
 - https://iconduck.com/icons/94789/pytorch
 - https://uxwing.com/android-robot-bot-icon/
 - https://worldvectorlogo.com/downloaded/android-logomark
