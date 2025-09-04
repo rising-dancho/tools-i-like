@@ -28,6 +28,7 @@
 - https://www.cloth2life.ai/
 
 ## windows debloat:
+- https://www.jannisseemann.de/
 - https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file#download--how-to-use-it
 - https://github.com/ravendevteam/talon
 - https://github.com/christitustech/winutil
