@@ -14,6 +14,7 @@
 
 ## ideas to copy
 - https://markodenic.com/css-pulse-animation/
+- https://www.fleiter-media.de/
 - https://aws.amazon.com/rds/free/
 - https://logistics-phi.vercel.app/
 - https://mixkit.co/
