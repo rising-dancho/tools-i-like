@@ -15,6 +15,7 @@
 ## ideas to copy
 - https://www.jannisseemann.de/
 - https://markodenic.com/css-pulse-animation/
+- https://www.ripplejs.com/
 - https://www.fleiter-media.de/
 - https://aws.amazon.com/rds/free/
 - https://logistics-phi.vercel.app/
