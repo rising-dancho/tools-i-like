@@ -56,6 +56,10 @@
 - https://annystudio.com/software/colorpicker/
 - https://www.wallpaperflare.com/
 
+## linux:
+- https://www.youtube.com/watch?v=NkdVrnra_DU
+- https://github.com/caelestia-dots/caelestia
+
 ## tools:
 - https://www.color-meanings.com/shades-of-white-color-names-html-hex-rgb-codes/
 - https://www.canva.com/colors/color-wheel/
