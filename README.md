@@ -12,11 +12,11 @@
 - https://lynxjs.org/
 - https://daisyui.com/
 
-# FREE SQL DEPLOYMENT
+## FREE SQL Deployment
 - https://supabase.com/
 - https://neon.com/
 
-# FREE NOSQL DEPLOYMENT
+## FREE NoSQL Deployment
 - https://www.mongodb.com/
 
 ## ideas to copy
