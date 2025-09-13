@@ -12,6 +12,13 @@
 - https://lynxjs.org/
 - https://daisyui.com/
 
+# FREE SQL DEPLOYMENT
+- https://supabase.com/
+- https://neon.com/
+
+# FREE NOSQL DEPLOYMENT
+- https://www.mongodb.com/
+
 ## ideas to copy
 - https://www.jannisseemann.de/
 - https://markodenic.com/css-pulse-animation/
