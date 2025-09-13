@@ -57,6 +57,7 @@
 - https://www.wallpaperflare.com/
 
 ## linux:
+- https://www.anduinos.com/
 - https://www.youtube.com/watch?v=NkdVrnra_DU
 - https://github.com/caelestia-dots/caelestia
 
