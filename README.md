@@ -60,6 +60,9 @@
 - https://www.anduinos.com/
 - https://www.youtube.com/watch?v=NkdVrnra_DU
 - https://github.com/caelestia-dots/caelestia
+- https://askubuntu.com/questions/1482198/emoji-picker-in-ubuntu-like-what-windows-10-and-macos-offer
+- https://phoenixnap.com/kb/how-to-install-xampp-on-ubuntu
+- https://snapcraft.io/install/chatgpt-desktop/ubuntu
 
 ## tools:
 - https://www.color-meanings.com/shades-of-white-color-names-html-hex-rgb-codes/
