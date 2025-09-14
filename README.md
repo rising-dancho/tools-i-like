@@ -63,6 +63,7 @@
 - https://askubuntu.com/questions/1482198/emoji-picker-in-ubuntu-like-what-windows-10-and-macos-offer
 - https://phoenixnap.com/kb/how-to-install-xampp-on-ubuntu
 - https://snapcraft.io/install/chatgpt-desktop/ubuntu
+- https://www.google.com/search?client=ubuntu&channel=fs&q=install+java+on+ubuntu&udm=50&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZud1z6kQpMfoEdCJxnpm_3YlUqOpj4OTU_HmqxOd8LCYAmZcz3xp4-s3ijYzIP40LlddfBAhJDuHsBzPcairVH6jEyLRYOBQgKx39vFebUA6gMRyOjUtKr2tAgLt8-riYCxo7cqYvgVIxY_03doEIFjWWiF6brNIzAObqF7XNPBoa6nWqDYwiLKQb2ooNcABsdF3WMg&ved=2ahUKEwjmiIzls9iPAxXtnK8BHWKTL8AQ0NsOegQISBAA&aep=10&ntc=1&mtid=asvGaOu-PMuMvr0P4c6lgAg&mstk=AUtExfBtiD_ql4wr9qFaaTVXpHhG5uX04Q0-GJ2VX0qPD4xanm1BXG9Hk3BsbO9-JAIgixS8vKUYAPaqwnCkyq8ZlC3pZMw62VREQQpcqZG1vIFRerkk6_17KPODete228bDq4JTFfmGsA4B_B8FJORZjqpMuZG0Y3oAGy9uU85LI8q_DVtJdQ7AsCUTh6Oj1zLgNfQdnhOYlTFBl2PGMOd5YMo1eU4diQeL3D1wmWupLdXKoHVFnNesIL6aw2Osq9_Z7vGZD6r5oU5uLEGbrgougKKl9MroBGNmvuhU42hu9TKC9IBb8r9bfbPWzkGP0C9-6Mavpk9Ii3HFfw&csuir=1
 
 ## tools:
 - https://www.color-meanings.com/shades-of-white-color-names-html-hex-rgb-codes/
