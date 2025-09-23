@@ -21,6 +21,8 @@
 
 ## ideas to copy
 - https://www.jannisseemann.de/
+- https://play.date/games/ribbit-rogue/
+- https://simply-in-dev.itch.io/ribbit-rogue
 - https://markodenic.com/css-pulse-animation/
 - https://www.ripplejs.com/
 - https://www.fleiter-media.de/
