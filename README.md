@@ -149,6 +149,7 @@
 ## inspiration websites:
 - https://www.helenazhang.com/
 - https://tobiasfried.com/
+- https://www.quantified.ai/?ref=land-book.com
 - https://livekit.io/
 - https://canonical.com/
 - https://www.thegr8binil.me/
