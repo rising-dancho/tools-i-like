@@ -23,6 +23,8 @@
 - https://www.jannisseemann.de/
 - https://play.date/games/ribbit-rogue/
 - https://simply-in-dev.itch.io/ribbit-rogue
+- https://beanstalkapp.co.uk/investing-with-beanstalk
+- https://beanstox.com/
 - https://markodenic.com/css-pulse-animation/
 - https://www.ripplejs.com/
 - https://www.fleiter-media.de/
