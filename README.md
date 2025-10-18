@@ -60,6 +60,7 @@
 - https://www.anduinos.com/
 - https://annystudio.com/software/colorpicker/
 - https://www.wallpaperflare.com/
+- https://thepiratebay.org/search.php?q=user:appdoze
 
 ## linux:
 - https://www.anduinos.com/
