@@ -41,6 +41,9 @@
 - https://g0rav.github.io/
 - https://www.cloth2life.ai/
 
+# remove text from image
+- https://www.pixelcut.ai
+
 ## windows debloat:
 - Activation: https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file#download--how-to-use-it
 - Microsoft Office: https://www.youtube.com/watch?v=h4OEl6q9aSo
