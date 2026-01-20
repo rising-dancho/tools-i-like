@@ -11,6 +11,7 @@
 - https://sonner.emilkowal.ski/
 - https://lynxjs.org/
 - https://daisyui.com/
+- https://m365.cloud.microsoft/?from=OfficeKey
 
 ## FREE SQL Deployment
 - https://supabase.com/
