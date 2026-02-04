@@ -12,6 +12,7 @@
 - https://lynxjs.org/
 - https://daisyui.com/
 - https://m365.cloud.microsoft/?from=OfficeKey
+- https://thavlik.dev/#top
 
 ## FREE SQL Deployment
 - https://supabase.com/
