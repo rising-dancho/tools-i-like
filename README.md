@@ -22,6 +22,7 @@
 - https://www.mongodb.com/
 
 ## ideas to copy
+- https://api.jquery.com/slideDown/
 - https://www.jannisseemann.de/
 - https://play.date/games/ribbit-rogue/
 - https://simply-in-dev.itch.io/ribbit-rogue
