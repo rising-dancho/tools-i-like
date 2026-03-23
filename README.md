@@ -158,6 +158,8 @@
 ## inspiration websites:
 - https://www.helenazhang.com/
 - https://tobiasfried.com/
+- https://substack.com/
+- https://react.dev/
 - https://www.quantified.ai/?ref=land-book.com
 - https://livekit.io/
 - https://canonical.com/
