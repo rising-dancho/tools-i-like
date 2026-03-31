@@ -159,6 +159,7 @@
 - https://www.helenazhang.com/
 - https://tobiasfried.com/
 - https://animations.dev/
+- https://bootswatch.com/lumen/
 - https://substack.com/
 - https://react.dev/
 - https://www.quantified.ai/?ref=land-book.com
