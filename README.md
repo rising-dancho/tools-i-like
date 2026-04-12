@@ -162,6 +162,7 @@
 ## inspiration websites:
 - https://www.helenazhang.com/
 - https://tobiasfried.com/
+- https://www.thefutur.com/
 - https://animations.dev/
 - https://bootswatch.com/lumen/
 - https://substack.com/
