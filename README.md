@@ -27,6 +27,8 @@
 ## ideas to copy
 - https://thecatontheceiling.atabook.org/
 - https://thecatontheceiling.github.io/
+- https://www.recurse.com/
+- https://words.filippo.io/
 - https://api.jquery.com/slideDown/
 - https://www.jannisseemann.de/
 - https://play.date/games/ribbit-rogue/
