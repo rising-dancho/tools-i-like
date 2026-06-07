@@ -10,6 +10,7 @@
 - https://github.com/topics/portfolio-template
 - https://jamie-dev-portfolio.netlify.app/
 - https://jrdev-port.netlify.app/
+- https://developer-portfolio-1hanzla100.vercel.app/
 
 ## ui design examples:
 - https://land-book.com/
