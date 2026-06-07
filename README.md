@@ -8,6 +8,8 @@
 
 # portfolio templates
 - https://github.com/topics/portfolio-template
+- https://jamie-dev-portfolio.netlify.app/
+- https://jrdev-port.netlify.app/
 
 ## ui design examples:
 - https://land-book.com/
