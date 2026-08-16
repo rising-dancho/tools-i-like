@@ -36,6 +36,7 @@
 ## ideas to copy
 - https://thecatontheceiling.atabook.org/
 - https://jasperbernaers.com/notepad/
+- https://jasperbernaers.com/diff-checker/
 - https://thecatontheceiling.github.io/
 - https://www.recurse.com/
 - https://words.filippo.io/
