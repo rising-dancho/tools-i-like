@@ -35,6 +35,7 @@
 
 ## ideas to copy
 - https://thecatontheceiling.atabook.org/
+- https://jasperbernaers.com/notepad/
 - https://thecatontheceiling.github.io/
 - https://www.recurse.com/
 - https://words.filippo.io/
