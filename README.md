@@ -43,6 +43,7 @@
 - https://thecatontheceiling.atabook.org/
 - https://jasperbernaers.com/notepad/
 - https://jasperbernaers.com/diff-checker/
+- https://lscaturchio.xyz/
 - https://thecatontheceiling.github.io/
 - https://www.recurse.com/
 - https://words.filippo.io/
