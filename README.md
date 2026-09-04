@@ -3,6 +3,9 @@
 ## bootstrap spacing:
 - https://getbootstrap.com/docs/4.0/utilities/spacing/
 
+## notes
+- https://trello.com/b/5SvchChT/diffchecker
+
 ## online diffchecker
 - https://coddy.tech/tools/diff-checker
 
