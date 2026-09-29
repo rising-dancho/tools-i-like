@@ -5,6 +5,7 @@
 
 ## notes
 - https://trello.com/b/5SvchChT/diffchecker
+- https://www.countries-ofthe-world.com/TLD-list.html
 
 ## online diffchecker
 - https://coddy.tech/tools/diff-checker
