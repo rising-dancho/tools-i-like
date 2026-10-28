@@ -6,7 +6,7 @@
 ## notes
 - https://trello.com/b/5SvchChT/diffchecker
 - https://www.countries-ofthe-world.com/TLD-list.html
-- https://chatgpt.com/share/6ae27d72-d074-83ec-918c-2ffc2237c58d
+- https://chatgpt.com/share/6ae28369-5f8c-83ec-85ec-9e5f1995fe91
 
 ## online diffchecker
 - https://coddy.tech/tools/diff-checker
